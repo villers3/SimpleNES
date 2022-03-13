@@ -1,6 +1,6 @@
 SimpleNES
 =============
-
+（红白机）NES模拟器
 
 An NES emulator written in C++ for nothing but fun.
 
